@@ -1,0 +1,18 @@
+<!-- ================== Banana Keeper ====================================== -->
+<!ELEMENT BananaKeeperLevels (Title,LevelCollection)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT LevelCollection (Level+)>
+<!ATTLIST LevelCollection                
+                MaxWidth     CDATA #IMPLIED
+                MaxHeight    CDATA #IMPLIED>
+
+<!ELEMENT Level (L+)>
+<!ATTLIST Level Id        CDATA #REQUIRED
+                Width     CDATA #IMPLIED
+                Height    CDATA #IMPLIED>
+
+<!ELEMENT L (#PCDATA)>
+<!ATTLIST L xml:space (default|preserve) 'preserve'>
+
+<!-- ======================================================================= -->
+

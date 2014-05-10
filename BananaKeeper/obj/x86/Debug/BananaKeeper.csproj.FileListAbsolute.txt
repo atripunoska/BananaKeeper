@@ -1,0 +1,71 @@
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\bin\Debug\BananaKeeper.exe
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\bin\Debug\BananaKeeper.pdb
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+c:\users\gocko\documents\visual studio 2010\Projects\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.csprojResolveAssemblyReference.cache
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\BananaKeeper.exe
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\PROEKT  VP\BananaKeeper\BananaKeeper\BananaKeeper.pdb
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\BananaKeeper.exe
+C:\Users\Gocko\Downloads\BananaKeeper\BananaKeeper\BananaKeeper.pdb
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.csprojResolveAssemblyReference.cache
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\BananaKeeper.exe
+F:\6. SESTI SEMESTAR\Vizuelno Programiranje\BananaKeeper - finalno\BananaKeeper\BananaKeeper.pdb
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\BananaKeeper.exe
+C:\Users\Gocko\Downloads\BananaKeeper - finalno(1)\BananaKeeper\BananaKeeper.pdb
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.exe
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.pdb
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.csprojResolveAssemblyReference.cache
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Board.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Menu.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.LoadGame.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.NewGame.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.Properties.Resources.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.StartGif.resources
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\obj\x86\Debug\BananaKeeper.csproj.GenerateResource.Cache
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\BananaKeeper.exe
+C:\Users\ANA\Desktop\BananaKeeper - finalno(1) (1)\BananaKeeper\BananaKeeper.pdb
